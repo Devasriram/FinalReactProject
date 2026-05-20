@@ -1,4 +1,4 @@
-import ServiceCard from "../Components/ServiceCard";
+import ServiceCard from "../components/ServiceCard";
 
 function Services() {
   const services = [
